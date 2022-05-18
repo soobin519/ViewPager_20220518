@@ -4,6 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/chaesb/AndroidStudioProjects/ViewPager_20220518/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/chaesb/AndroidStudioProjects/ViewPager_20220518/app/src/main/res/layout/fragment_hello.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/chaesb/AndroidStudioProjects/ViewPager_20220518/app/src/main/res/layout/fragment_phone.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/chaesb/AndroidStudioProjects/ViewPager_20220518/app/src/main/res/layout/main_fragment.xml" value="0.25364583333333335" />
       </map>
     </option>
   </component>
